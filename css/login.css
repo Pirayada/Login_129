@@ -1,0 +1,18 @@
+html, body{
+    height: 100%;
+}
+
+body{
+    
+    padding-top:40px;
+    background-size:80% 80%;
+    
+    background-color: #FFC5C5;
+    background-repeat: no-repeat;
+    background-position: center top;
+    
+}
+.form-login{
+    max-width: 25rem;
+    margin: auto;
+}
